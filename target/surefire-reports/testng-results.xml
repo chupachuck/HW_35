@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="core.SubstractTest" duration-ms="40" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="40" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+      <class name="core.SubstractTest">
+        <test-method status="PASS" signature="substract_test_2_param()[pri:0, instance:core.SubstractTest@35bbe5e8]" name="substract_test_2_param" duration-ms="15" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract_test_2_param -->
+        <test-method status="PASS" signature="substract_test_3_param()[pri:0, instance:core.SubstractTest@35bbe5e8]" name="substract_test_3_param" duration-ms="1" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract_test_3_param -->
+        <test-method status="PASS" signature="substract_test_instanceOf()[pri:0, instance:core.SubstractTest@35bbe5e8]" name="substract_test_instanceOf" duration-ms="1" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract_test_instanceOf -->
+        <test-method status="PASS" signature="substract_test_4_param()[pri:0, instance:core.SubstractTest@35bbe5e8]" name="substract_test_4_param" duration-ms="0" started-at="2019-07-07T09:41:18Z" finished-at="2019-07-07T09:41:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substract_test_4_param -->
+      </class> <!-- core.SubstractTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- core.SubstractTest -->
+</testng-results>
